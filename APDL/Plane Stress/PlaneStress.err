@@ -1,0 +1,11 @@
+/COM,ANSYS RELEASE Release 16.2      BUILD 16.2      UP20150629       22:51:37
+
+ *** WARNING ***                         CP =      11.078   TIME= 23:06:08
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      14.203   TIME= 23:07:32
+ No data item specified.  The PLNSOL command is ignored.                 
+/COM,ANSYS RELEASE Release 16.2      BUILD 16.2      UP20150629       23:09:16
+/COM,ANSYS RELEASE Release 16.2      BUILD 16.2      UP20150629       23:22:53
